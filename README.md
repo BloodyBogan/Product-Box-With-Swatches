@@ -22,7 +22,7 @@ Feel free to do anything you want.
 
 v1.0
 
-##Credits
+## Credits
 
 Favicon: https://www.flaticon.com/
 
