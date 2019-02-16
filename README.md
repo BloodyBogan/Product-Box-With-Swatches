@@ -1,6 +1,6 @@
 # Product Box With Swatches
 
-Modern product box with swatches.
+Modern product box with swatches. In order for the image switching to work, you need to run the page on a server! Doesn't work on GitHub Pages for some reason.
 
 ## Website
 
